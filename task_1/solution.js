@@ -5,7 +5,7 @@ function addInCartMessage(title, price) {
     // Задание №1.1. Оповещение о добавлении в корзину
 апра
     вввfлор\\\\вапвgdfdfвfdfsdsвамв
-git config --global --unset-all user.namedssddапрпвап
+git config --global --unsdsdset-all user.namedssddапрпвап
 
 
     // Конец решения задания №1.1.
