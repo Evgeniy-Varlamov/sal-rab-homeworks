@@ -6,7 +6,7 @@ function addInCartMessage(title, price) {
 апра
     вввfлор\\\\вапвgdfdfвfdfsdsвамв
 git config --global --unsdsdset-all user.namedssddапрпвап
-апр
+апрfghfg
 
     // Конец решения задания №1.1.
 
