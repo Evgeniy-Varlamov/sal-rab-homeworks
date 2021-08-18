@@ -4,7 +4,7 @@ function addInCartMessage(title, price) {
 
     // Задание №1.1. Оповещение о добавлении в корзину
 
-    123456
+    вап
     // Конец решения задания №1.1.
 
     return message;
